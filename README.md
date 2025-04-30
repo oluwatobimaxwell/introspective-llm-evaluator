@@ -49,7 +49,7 @@ To successfully run the project, ensure you have the following:
 ### Step 1: Clone the Repository or Download the Files
 
 ```bash
-git clone https://github.com/your_username/introspective-llm-evaluation.git
+git clone https://github.com/oluwatobimaxwell/introspective-llm-evaluator.git
 cd introspective-llm-evaluation
 ```
 
